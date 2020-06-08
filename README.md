@@ -4,7 +4,7 @@ Demonstrate the core capabilities of the Microsoft Bot Framework
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
 
-## Prerequisites
+## Prerequisites 
 
 - [Node.js](https://nodejs.org) version 10.14.1 or higher
 
@@ -26,8 +26,8 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
     ```bash
     npm start
     ```
-
-## Testing the bot using Bot Framework Emulator
+ 
+## Testing the bot using Bot Framework Emulator iiiopou ewhirowhfjwfd wfret ttyry 
 
 [Bot Framework Emulator](https://github.com/microsoft/botframework-emulator) is a desktop application that allows bot developers to test and debug their bots on localhost or running remotely through a tunnel.
 
